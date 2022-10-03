@@ -1,0 +1,66 @@
+= GGeeooccooddeerr
+
+(from gem geocoder-1.8.1)
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+= CCoonnssttaannttss::
+
+VERSION:
+  [not documented]
+
+
+= CCllaassss  mmeetthhooddss::
+
+  address, config, config_for_lookup, configure, coordinates, log,
+  merge_into_lookup_config, search
+
+= IInnssttaannccee  mmeetthhooddss::
+
+  archive_url, archive_url_path, base_url, classify_name, data_files,
+  expire_single_url, insert_into_table, insert_rows, instantiate_lookup,
+  interpret, keys, sql_escaped_value, urls, valid_level?
+
