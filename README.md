@@ -35,7 +35,7 @@ Todos os métodos que podem ser utilizados para possibilitar aos usuários
 as informações citadas acima, foram desenvolvidos em uma só API. A forma que
 deve ser utilizada será informada no tópico _Sobre a API_.
 
-![image](https://user-images.githubusercontent.com/22120173/193704171-a4a6319e-9e91-4692-a973-0280236a07e6.png)
+![image](https://user-images.githubusercontent.com/22120173/193711341-254628bf-ab46-4c79-80f0-82b77e7e5394.png)
 
 ## Configurando o ambiente
 
