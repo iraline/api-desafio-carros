@@ -123,4 +123,17 @@ vin - Vin do veículo
 ```
 
 Exemplo de requisição e retorno
+
 ![image](https://user-images.githubusercontent.com/22120173/193707487-81b1dfe3-d547-4986-b594-4fd9fe383a29.png)
+
+
+### GIF mostrando o funcionamento da API
+![Demonstracao_API](https://user-images.githubusercontent.com/22120173/193710233-e39aeb56-ab1c-4ccf-b83d-d89c6fa3ffd1.gif)
+
+#### Algumas melhorias a serem realizadas
+    - Testes, testes e mais testes (rspec)
+    - Tratativa de erros
+    - Junção dos métodos que envolve consumo médio de gasolina
+    - Adaptar a resposta dos métodos para um retorno no formato json
+    
+
