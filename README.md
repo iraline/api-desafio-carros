@@ -7,7 +7,7 @@ o público geral como os atuais usuários. A seguir tem as ideias mais destrinch
 
 # Sobre o projeto
 
-*Para o público geral:*
+*Para o público geral: *
 
 No momento de comprar um carro, muitas pessoas buscam primeiramente por economia e melhor custo benefício.
 O consumo de combustível que é informado pelas empresas nem sempre é preciso, pois geralmente
